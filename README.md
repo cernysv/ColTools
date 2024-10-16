@@ -18,7 +18,8 @@ Currently, it supports:
   - HEX <> HSL
 
 ### Documentation
-The documentation is still in development and will be available soon.
+An early version of the documentation is available on the Wiki.  
+[Documentation](https://github.com/cernysv/ColTools/wiki/Documentation-(early))
 
 ### License
 This project uses a custom license. Please see the **LICENSE** file for more details.
