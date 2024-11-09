@@ -1,9 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+	<PackageId>ColTools</PackageId>
+	<Version>0.2.0</Version>
+	<Authors>cernysv</Authors>
+	<Description>A C# library for basic color manipulation</Description>
+	<PackageLicenseExpression>BSD-2-Clause</PackageLicenseExpression>
+	<RepositoryUrl>https://github.com/cernysv/ColTools</RepositoryUrl>
+	<PackageTags>color colors tool tools</PackageTags>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
+	<Copyright>© 2024 cernysv (Černý Svatopluk). All rights reserved.</Copyright>
   </PropertyGroup>
 
+  <ItemGroup>
+	  <None Include="README.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
 </Project>
