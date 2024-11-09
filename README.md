@@ -16,8 +16,8 @@ Currently, it supports:
     * HEX <> HSL
 
 ### Documentation
-Documentation for 0.2 is available [here](https://github.com/cernysv/ColTools/wiki/Documentation-for-0.2).
-Older versions are available [here](https://github.com/cernysv/ColTools/wiki/Documentation-for-older-versions).
+Documentation for 0.2 is available [here](https://github.com/cernysv/ColTools/wiki/Documentation-for-0.2).  
+Older versions are available [here](https://github.com/cernysv/ColTools/wiki/Documentation-for-older-versions).  
 [Installation](https://github.com/cernysv/ColTools/wiki)
 
 ### Changelog 0.2
