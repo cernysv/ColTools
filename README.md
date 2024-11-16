@@ -38,7 +38,8 @@ Older versions are available [here](https://github.com/cernysv/ColTools/wiki/Doc
 [0.2](https://github.com/cernysv/ColTools/releases/v0.2-beta)
 
 ### License
-This project is licensed under the [BSD 2-Clause License](https://opensource.org/license/bsd-2-clause).
+This project is licensed under the [BSD 2-Clause License](https://opensource.org/license/bsd-2-clause).  
+Additionally, standard .NET libraries (System.*) are used that are made by Microsoft and are licensed under the [MIT License](https://opensource.org/license/mit).
 
 ### Contact
 For any questions or issues, contact me at [cernysv@outlook.com](mailto:cernysv@outlook.com) or create an [issue](https://github.com/cernysv/ColTools/issues/new/choose).
