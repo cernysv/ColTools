@@ -38,3 +38,7 @@ project.fragment.lock.json
 
 Thumbs.db
 .DS_Store
+
+.pydio
+bin/
+obj/
