@@ -28,8 +28,8 @@ Older versions are available [here](https://github.com/cernysv/ColTools/wiki/Doc
 * Create an optional colset (dataset with color to name binds) for palette generation and shade recognition
 
 ### Releases
-[0.3](https://github.com/cernysv/ColTools/releases/v0.2-beta)  
-[0.2](https://github.com/cernysv/ColTools/releases/v0.3-beta)  
+[0.3](https://github.com/cernysv/ColTools/releases/v0.3-beta)  
+[0.2](https://github.com/cernysv/ColTools/releases/v0.2-beta)  
 
 ### License
 This project is licensed under the [BSD 2-Clause License](https://opensource.org/license/bsd-2-clause).  
