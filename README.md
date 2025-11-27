@@ -1,4 +1,6 @@
 # ColTools
+![status](https://img.shields.io/badge/status-abandoned-red)  
+# This project is abandoned!  
 **Color tools library for C#**
 
 **Current version**: v0.3-beta
